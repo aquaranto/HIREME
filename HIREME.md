@@ -40,7 +40,7 @@ While in my second year of college I started a student chapter of the Society of
 
 Also while in college, I was a member of Women in Technology (WIT). Several times a year we invited local girl scouts to RIT to learn about different engineering disciplines. I led the activities for mechanical engineering and material science.
 
-I recently started a [meetup group](http://www.meetup.com/Buffalo-Learning-to-Code/) to share my love of programming with the Nickel City. Currently we have 11 members, many of whom are programming for the very first time.
+I recently started a [meetup group](http://www.meetup.com/Buffalo-Learning-to-Code/) to share my love of programming with the Nickel City. Currently we have 11 members, many of whom are programming for the very first time. I also started posting all of the examples before the class for the 'students' to [refer to](github.com/aquaranto/PineLTPAnswers).
 
 * **a student**
 
