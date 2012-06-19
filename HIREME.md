@@ -17,29 +17,20 @@ In November 2011, I left my manufacturing engineering position in Boston, MA and
 
 I feel that Ruby and Rails development will allow me to apply all of these skills.
 
-###My previous experience with customer support
-It can be argued that I have worked in *customer support* for several years. Manufacturing, like most industries, is based on an interconnected web of supplier-customer relationships. As a manufacturing engineer I acted as the regulator for these relationships. 	
-
-Operators were my most demanding customers and interacting with them was the best part of my job. I trained them to use the different machines and wrote documentation for their future reference. I also ensured their machines produced quality product and allowed them to do their jobs in the most effective manner possible.
-
-I was also the line of communication between the operators and the design/mechanical engineering staff. I participated in design reviews where I voiced the issues operators were having with certain designs and, in turn, I spoke with the operators about upcoming design changes.
-	 
-
-
-###Why am I a good match for github?
+###Why am I a fit?
 ####I am...
 
 * **a problem solver**
 
-As a manufacturing engineer one of my primary functions was "problem solver". This included customer and supplier issues, design problems and machine maintenance.
+As a manufacturing engineer one of my primary functions was "problem solver". This included customer/supplier issues, design problems, and machine programming and maintenance.
 
 * **personable**
 
-In my final year at RIT, I worked on a capstone project with my entire senior class (11 people). I was selected to be the voice of my capstone group. I presented both our midterm and final presentations to a group of staff which included the head of the department.
+In my final year at RIT, I worked on a capstone project with my entire senior class (11 people). I was selected to be the voice of my capstone group. I presented both our midterm and final presentations to faculty, including the head of the department.
 
 * **a creator** 
 
-One of my favorite hobbies is crocheting. I love the feeling of accomplishment associated with the creation of something. I know that something I [made](http://img0.etsystatic.com/il_570xN.312405116.jpg) will keep someone warm.
+One of my favorite hobbies is crocheting. I love the feeling of accomplishment associated with the creation of something. I know that something I made will keep someone warm.
 
 * **a teacher**
 
@@ -47,11 +38,11 @@ While in my second year of college I started a student chapter of the Society of
 
 Also while in college, I was a member of Women in Technology (WIT). Several times a year we invited local girl scouts to RIT to learn about different engineering disciplines. I led the activities for mechanical engineering and material science.
 
-After moving to Buffalo I started a [meetup group](http://www.meetup.com/Buffalo-Crochet/) to share my love of crocheting with the Nickel City. Currently we have 35 members, many of whom are learning the craft. 
+I recently started a [meetup group](http://www.meetup.com/Buffalo-Learning-to-Code/) to share my love of programming with the Nickel City. Currently we have 11 members, many of whom are programming for the very first time.
 
 * **a student**
 
-I am currently in the process of teaching myself how to program. I am working my way through the web development track on [TeamTreeHouse](http://teamtreehouse.com/) and I’m trying to [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/). 
+I am currently in the process of teaching myself how to program. I worked my way through the web development track on TeamTreeHouse and I completed a computer science course through coursera.org. 
 
 I am also attending as many conferences and ruby meetups as possible. I love meeting all of the intelligent people and absorbing as much knowledge as I can from them.
 
@@ -61,18 +52,20 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 
 * Boston.rb and WNY Ruby Users Meetups
 
-* Attending Conferences - Codemash 2012, RailsConf 2012 
+* Attending Conferences - Codemash 2012, RailsConf 2012, SteelCityRuby (Aug 2012)
+
+* Speaking at Un-Conferences - BarCampBuffalo 2012 [LINK](http://prezi.com/onpmy2cxyzgc/learn-to-program/)
 
 ###Professional Goals
-* Talk at a conference within 2 years
+* Talk at a national conference within 1 years
 
-* Work professionally as a programmer within 5 years
+* Work professionally as a programmer within 2 years
 
 ###About me 
 #####(the fun, often nerdy, stuff)
-* Board games - Carcassonne, 7Wonders, Quarriors, Ticket to Ride
+* Board games - Carcassonne, 7Wonders, Quarriors, Munchkin
 
-* Cooking - I am currently leveling up my bread making skills.
+* Cooking - I am currently leveling up my [keto-friendly](http://www.reddit.com/help/faqs/keto) cooking skills.
 
 * Crafting - Everything and anything. Yes, [really](http://distilleryimage4.s3.amazonaws.com/2df294264af211e1abb01231381b65e3_7.jpg).
 
