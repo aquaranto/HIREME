@@ -36,7 +36,7 @@ One of my favorite hobbies is crocheting. I love the feeling of accomplishment a
 
 * **a teacher**
 
-While in my second year of college I started a student chapter of the Society of Manufacturing Engineers(SME).  The group worked on many projects which included the hotdog robot [Version 1:Tabletop](http://www.youtube.com/watch?v=enmuwG5rOGA), [Version 2: Mobile](http://www.youtube.com/watch?v=6LXdhUK-wXk). This project was shown at the ImagineRIT festival in Rochester, NY with the hope of getting children interested in engineering.
+While in my second year of college I started a student chapter of the Society of Manufacturing Engineers(SME).  The group worked on many projects which included programming the hotdog robot [Version 1:Tabletop](http://www.youtube.com/watch?v=enmuwG5rOGA), [Version 2: Mobile](http://www.youtube.com/watch?v=6LXdhUK-wXk). This project was shown at the ImagineRIT festival in Rochester, NY with the hope of getting children interested in engineering.
 
 Also while in college, I was a member of Women in Technology (WIT). Several times a year we invited local girl scouts to RIT to learn about different engineering disciplines. I led the activities for mechanical engineering and material science.
 
