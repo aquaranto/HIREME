@@ -1,6 +1,8 @@
-#HIREME
+#HIREME.md
 ###Who am I?
 Hi there! I am Amanda Quaranto: an engineer turned novice programmer. I am seeking an internship to learn more about the field and to eventually obtain full-time employment as a developer.   
+
+![Hi there](http://cdn2.mixrmedia.com/wp-uploads/girlybubble/blog/2011/12/tumblr_lw3xe9waz21qzrlhgo1_250.gif)
   
 ###About my quest
 In November 2011, I left my manufacturing engineering position in Boston, MA and I found myself with an amazing, albeit daunting, opportunity to find my passion. My husband and I moved closer to family and I started on my quest to find a career that encompasses everything I love:
@@ -17,7 +19,7 @@ In November 2011, I left my manufacturing engineering position in Boston, MA and
 
 I feel that Ruby and Rails development will allow me to apply all of these skills.
 
-###Why am I a fit?
+###Why am I a good fit?
 ####I am...
 
 * **a problem solver**
@@ -34,7 +36,7 @@ One of my favorite hobbies is crocheting. I love the feeling of accomplishment a
 
 * **a teacher**
 
-While in my second year of college I started a student chapter of the Society of Manufacturing Engineers(SME).  The group worked on many projects which included the hotdog robot [Version 1:Tabletop](http://www.youtube.com/watch?v=enmuwG5rOGA) [Version 2: Mobile](http://www.youtube.com/watch?v=6LXdhUK-wXk). This project was shown at the ImagineRIT festival in Rochester, NY with the hope of getting children interested in engineering.
+While in my second year of college I started a student chapter of the Society of Manufacturing Engineers(SME).  The group worked on many projects which included the hotdog robot [Version 1:Tabletop](http://www.youtube.com/watch?v=enmuwG5rOGA), [Version 2: Mobile](http://www.youtube.com/watch?v=6LXdhUK-wXk). This project was shown at the ImagineRIT festival in Rochester, NY with the hope of getting children interested in engineering.
 
 Also while in college, I was a member of Women in Technology (WIT). Several times a year we invited local girl scouts to RIT to learn about different engineering disciplines. I led the activities for mechanical engineering and material science.
 
@@ -42,7 +44,7 @@ I recently started a [meetup group](http://www.meetup.com/Buffalo-Learning-to-Co
 
 * **a student**
 
-I am currently in the process of teaching myself how to program. I worked my way through the web development track on TeamTreeHouse and I completed a computer science course through coursera.org. 
+I am currently in the process of teaching myself how to program. I worked my way through the web development track on TeamTreeHouse, I have read/worked through many books and tutorials, and I completed a computer science course through coursera.org. 
 
 I am also attending as many conferences and ruby meetups as possible. I love meeting all of the intelligent people and absorbing as much knowledge as I can from them.
 
