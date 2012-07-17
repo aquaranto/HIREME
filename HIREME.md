@@ -1,6 +1,6 @@
 #HIREME.md
 ###Who am I?
-Hi there! I am Amanda Quaranto: an engineer turned novice programmer. I am seeking an internship to learn more about the field and to eventually obtain full-time employment as a developer.   
+Hi there! I am Amanda Quaranto: an engineer turned novice programmer. I am seeking an internship/entry-level position to learn more about the field and to eventually obtain full-time employment as a developer.   
 
 ![Hi there](http://gifs.gifbin.com/122011/1323718227_waving_bear.gif)
   
