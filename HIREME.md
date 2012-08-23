@@ -56,12 +56,12 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 
 * Boston.rb and WNY Ruby Users Meetups
 
-* Attending Conferences - Codemash 2012, RailsConf 2012, SteelCityRuby (Aug 2012)
+* Attending Conferences - Codemash 2012, RailsConf 2012, SteelCityRuby2012, MagicRuby(Oct 2012)
 
 * Speaking at Un-Conferences - BarCampBuffalo 2012 [LINK](http://prezi.com/onpmy2cxyzgc/learn-to-program/)
 
 ###Professional Goals
-* Talk at a national conference within 1 years
+* Talk at a national conference within 1 years - Scheduled to talk at MagicRuby(Oct 2012)!!
 
 * Work professionally as a programmer within 2 years
 
