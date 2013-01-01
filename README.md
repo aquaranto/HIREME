@@ -1,6 +1,6 @@
 #HIREME.md
 ###Who am I?
-Hi there! I am Amanda Quaranto: an engineer turned novice programmer. I am seeking an internship/entry-level position to learn more about the field and to eventually obtain full-time employment as a developer.   
+Hi there! I am Amanda Quaranto: an engineer turned novice programmer.
 
 ![Hi there](http://gifs.gifbin.com/122011/1323718227_waving_bear.gif)
   
@@ -51,23 +51,28 @@ I am currently in the process of teaching myself how to program. I worked my way
 I am also attending as many conferences and ruby meetups as possible. I love meeting all of the intelligent people and absorbing as much knowledge as I can from them.
 
 -
+
+###Work experience
+* Intern at Academic Software Plus in Buffalo NY Oct 2012 to present
 	
 ###Current participation in the developer community
 
 * Boston.rb and WNY Ruby Users Meetups
 
-* Attending Conferences - Codemash 2012, RailsConf 2012, SteelCityRuby2012, MagicRuby(Oct 2012)
+* Giving talks locally and at conferences [MagicRuby Oct 2012](http://magic-ruby.com/)
+
+* Attending Conferences - Codemash 2012, RailsConf 2012, SteelCityRuby2012, MagicRuby(Oct 2012), Codemash 2013
 
 * Speaking at Un-Conferences - BarCampBuffalo 2012 [LINK](http://prezi.com/onpmy2cxyzgc/learn-to-program/)
 
 ###Professional Goals
-* Talk at a national conference within 1 years - Scheduled to talk at MagicRuby(Oct 2012)!!
-
+* Talk at a national conference within 1 years
 * Work professionally as a programmer within 2 years
+* Commit to an open source project
 
 ###About me 
 #####(the fun, often nerdy, stuff)
-* Board games - Carcassonne, 7Wonders, Quarriors, Munchkin
+* Board games - Carcassonne, 7Wonders, King of Tokyo, Munchkin
 
 * Cooking - I am currently leveling up my [keto-friendly](http://www.reddit.com/help/faqs/keto) cooking skills.
 
