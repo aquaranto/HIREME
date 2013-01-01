@@ -66,7 +66,7 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 * Speaking at Un-Conferences - BarCampBuffalo 2012 [LINK](http://prezi.com/onpmy2cxyzgc/learn-to-program/)
 
 ###Professional Goals
-* Talk at a national conference within 1 years
+* ~~Talk at a national conference within 1 years~~ MagicRuby 2012!
 * Work professionally as a programmer within 2 years
 * Commit to an open source project
 
