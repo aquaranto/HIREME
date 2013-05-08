@@ -53,7 +53,8 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 -
 
 ###Work experience
-* Intern at Academic Software Plus in Buffalo NY Oct 2012 to present
+* Intern at Academic Software Plus in Buffalo, NY Oct 2012 to Jan 2013
+* Jr. Rails Developer at Academic Software Plus in Buffalo, NY Jan 2013 to present
 	
 ###Current participation in the developer community
 
@@ -61,7 +62,7 @@ I am also attending as many conferences and ruby meetups as possible. I love mee
 
 * Giving talks locally and at conferences [MagicRuby Oct 2012](http://magic-ruby.com/)
 
-* Attending Conferences - Codemash 2012, RailsConf 2012, SteelCityRuby2012, MagicRuby(Oct 2012), Codemash 2013
+* Attending Conferences - RailsConf 2012, SteelCityRuby 2012, MagicRuby 2012, Codemash 2013, RailsConf 2013
 
 * Speaking at Un-Conferences - BarCampBuffalo 2012 [LINK](http://prezi.com/onpmy2cxyzgc/learn-to-program/)
 
